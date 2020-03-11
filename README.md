@@ -35,6 +35,8 @@ Video can be found [here](https://drive.google.com/file/d/1fe3ThyY80DQxw-qGK-85e
 
 3. Go to the installed folder and run **corona.exe**
 
+4. The app will open where the first frame will be fixed and waiting for you to draw a bounding box around your hand to be tracked. Draw a bounding box and click Enter. To stop the app, press Esc.
+
 ### B) Advanced (for developers/technical users):
 
 1. Clone or download this repository.
@@ -69,4 +71,4 @@ Make sure you provide the correct path of **requirements.txt**
 python corona.py
 ```
 
-7. The first frame will be fixed and waiting for you to draw a bounding box around your hand to be tracked. Draw a bounding box and click Enter.
+7. The app will open where the first frame will be fixed and waiting for you to draw a bounding box around your hand to be tracked. Draw a bounding box and click Enter. To stop the app, press Esc.
