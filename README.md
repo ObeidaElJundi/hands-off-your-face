@@ -1,5 +1,4 @@
 # Hands Off Your Face!
-To alert you whenever your hand gets near your face
 
 <img src="https://user-images.githubusercontent.com/9033365/76415349-7797ff80-63b2-11ea-867f-30a59813eb6b.png" alt="Example" width="600">
 
@@ -55,9 +54,9 @@ Make sure you provide the correct path of **requirements.txt**
 
 ![image](https://user-images.githubusercontent.com/9033365/76417146-c6936400-63b5-11ea-8c59-a84ae80df8f1.png)
 
-5. Run the script:
+6. Run the script:
 ```
 python corona.py
 ```
 
-6. The first frame will be fixed and waiting for you to draw a bounding box arounfd your hand to be tracked. Draw a bounding box and click Enter.
+7. The first frame will be fixed and waiting for you to draw a bounding box arounfd your hand to be tracked. Draw a bounding box and click Enter.
