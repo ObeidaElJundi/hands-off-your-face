@@ -5,7 +5,7 @@
 ## Coronavirus (aka. COVID)
 In December 2019, the world witnessed an aweful outbreak of [coronavirus disease](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) in China. Not a long time later, it has been spread in more than 100 countries. No vaccine is currently available!
 
-One under-rated way of minimizing spreading the virus and protecting ourselves from it is to **avoid touching our face**.
+One underrated way of minimizing spreading the virus and protecting ourselves from it is to **avoid touching our face**.
 ![image](https://user-images.githubusercontent.com/9033365/76415845-67345480-63b3-11ea-9327-45bad2d3f9ed.png)
 
 Not touching your face is harder than it sounds. In 2015, a Sydney university observed medical students on video and recorded how many times they touched their faces. Each of the 26 future doctors under observation touched their faces an average 23 times per hour.
@@ -27,6 +27,16 @@ Hand is close to face:
 Video can be found [here](https://drive.google.com/file/d/1fe3ThyY80DQxw-qGK-85epxwJBSPxpY5/view?usp=sharing).
 
 ## Installation
+
+### A) Easy (for non-technical & Windows users):
+1. Download the installer from [here](https://drive.google.com/file/d/1-yvGvAZPskiqx7KB3zWO95OTYgRgNmOh/view?usp=sharing)
+
+2. Run the installer and install the app.
+
+3. Go to the installed folder and run **corona.exe**
+
+### B) Advanced (for developers/technical users):
+
 1. Clone or download this repository.
 
 2. Make sure python 3.x is installed on your PC. To check if and which version is installed, run the following command:
@@ -59,4 +69,4 @@ Make sure you provide the correct path of **requirements.txt**
 python corona.py
 ```
 
-7. The first frame will be fixed and waiting for you to draw a bounding box arounfd your hand to be tracked. Draw a bounding box and click Enter.
+7. The first frame will be fixed and waiting for you to draw a bounding box around your hand to be tracked. Draw a bounding box and click Enter.
